@@ -1,0 +1,12 @@
+WEB TRAFFIC ANALYTICS REPORT
+============================
+
+Total Visitors: 20
+Average Session Duration: 126.50
+Average Page Views: 4.05
+
+Insights:
+- Home page receives highest engagement.
+- Users from Google show longer sessions.
+- High bounce rate pages indicate drop-off points.
+- Product pages have strong conversion potential.
